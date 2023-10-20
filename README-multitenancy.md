@@ -14,3 +14,7 @@ After it starts, you will get a bunch of errors in the connectors container:
 - Click on Tenants
 - Click on Add
 - Add the Default tenant
+
+## Note on volumes
+
+Delete all volumes if you have issues starting the stack after changing container image versions.
